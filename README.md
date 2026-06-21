@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👋 Hi, I’m Prathiksh<br><br>I’m a student developer from India who enjoys building things that actually do something instead of just existing for screenshots. I work across full-stack web development, machine learning, and IoT, with a growing interest in real-time systems, security, and applied AI.<br><br>I’ve built projects ranging from quiz platforms, attendance systems, and ML prediction apps to hardware-integrated systems using ESP32/Raspberry Pi. I like understanding how things work end-to-end, not just copying snippets and praying they compile.<br><br>Currently focused on:<br><br>Full-stack development (React, Next.js, Flask)<br><br>Machine Learning with Python (scikit-learn, pandas)<br><br>Backend systems, APIs, and databases<br><br>Exploring cybersecurity and penetration testing basics<br><br>I believe clean logic beats fancy UI, but both are better when they coexist.
+👋 Hi, I’m Prathiksh<br><br>I’m a student developer from India who enjoys building things that actually do something instead of just existing for screenshots. I work across full-stack web development, machine learning, and IoT, with a growing interest in real-time systems, security, and applied AI.
 
 
 ## 🌐 Socials:
