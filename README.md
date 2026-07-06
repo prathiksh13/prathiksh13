@@ -86,16 +86,6 @@ Rather than building applications solely for aesthetics, I focus on creating sys
 
 ---
 
-## 2026 Goals
-
-- Build impactful open-source software
-- Become a strong backend engineer
-- Master scalable software architecture
-- Contribute consistently to GitHub
-- Participate in national hackathons
-- Build AI-powered production systems
-
----
 
 ## Open To
 
@@ -104,8 +94,6 @@ Rather than building applications solely for aesthetics, I focus on creating sys
 ✔ AI / ML Projects
 
 ✔ Full Stack Development
-
-✔ Open Source Collaboration
 
 ✔ Research Opportunities
 
