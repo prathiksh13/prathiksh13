@@ -6,8 +6,7 @@
 
 <br>
 
-![](https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/Open%20Source-Contributor-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/B.Tech-CSM-6D28D9?style=for-the-badge)
 ![](https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-8B5CF6?style=for-the-badge)
 ![](https://img.shields.io/badge/Full%20Stack-Developer-4F46E5?style=for-the-badge)
 
@@ -411,50 +410,6 @@ Designing and developing modern software solutions focused on scalability, artif
 | 🌐 Open Source | Actively contributing to GitHub projects |
 | 🚀 Continuous Learning | Exploring AI, DevOps & Cloud technologies |
 | 🎯 Hackathons | Building innovative real-world solutions |
-
----
-
-# Certifications
-
-## AWS
-
-![](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws)
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Courses-005BAC?style=for-the-badge)
-
----
-
-# Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Skills-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef"/>
-</a>
-
-</p>
 
 ---
 
