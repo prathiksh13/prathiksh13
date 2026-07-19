@@ -451,15 +451,6 @@ Designing and developing modern software solutions focused on scalability, artif
 
 ---
 
-# Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/prathiksh13/prathiksh13/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 # Current Focus
 
