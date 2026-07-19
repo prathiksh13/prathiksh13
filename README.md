@@ -431,15 +431,7 @@ Designing and developing modern software solutions focused on scalability, artif
 
 ---
 
-# GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prathiksh13&theme=tokyonight&column=4&no-frame=true&margin-w=15"/>
-
-</p>
-
----
 
 # Contribution Activity
 
