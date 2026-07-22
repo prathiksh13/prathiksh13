@@ -108,7 +108,7 @@ Rather than building applications solely for aesthetics, I focus on creating sys
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts"/>
 
 </p>
 
@@ -138,7 +138,7 @@ Rather than building applications solely for aesthetics, I focus on creating sys
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,firebase"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
 
 </p>
 
@@ -158,15 +158,7 @@ OpenCV • NumPy • Pandas • Scikit-Learn • Computer Vision • Deep Learni
 
 </p>
 
----
 
-## Cloud, DevOps & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,githubactions,vercel,figma,blender,vscode"/>
-
-</p>
 
 ---
 
